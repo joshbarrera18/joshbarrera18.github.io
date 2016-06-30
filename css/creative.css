@@ -233,12 +233,12 @@ header
 
 section#contact {
     padding: 25px 0;
-    font-family: 'Merriweather', serif, Georgia, serif;;
+    font-family: 'Merriweather', serif, Georgia, serif;
     background-color: #000;
 }
 section#contact h2{
 
-    font-family: 'Vast Shadow', Georgia, serif;;
+    font-family: 'Vast Shadow', Georgia, serif;
     background-color: #000;
 }
 @media(min-width:768px) {
