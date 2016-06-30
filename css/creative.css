@@ -11,8 +11,10 @@ body {
 }
 
 body {
-    font-family: 'Merriweather', serif, Georgia,serif;
+    font-family: 'Merriweather', Garamond,serif;
+    font-size:2em;
 }
+
 
 hr {
     max-width: 50px;
@@ -42,22 +44,22 @@ h3,
 h4,
 h5,
 h6 {
-    font-family: 'Aref Ruqaa',Georgia,serif;
+    font-family: 'Aref Ruqaa',Garamond,serif;
 }
 
 #services h2 {
-    font-family:'Vast Shadow',Georgia,serif;
+    font-family:'Vast Shadow',Garamond,serif;
 }
 #services h3 {
-    font-family:'Merriweather', serif,Georgia,serif;
+    font-family:'Merriweather',Garamond,serif;
 }
 #about h2 {
-    font-family:'Vast Shadow',Georgia,serif;
+    font-family:'Vast Shadow',Garamond,serif;
 }
 
 p {
     margin-bottom: 20px;
-    font-size: 16px;
+    /*font-size: 16px;*/
     line-height: 1.5;
 }
 
@@ -95,7 +97,7 @@ aside {
 
 .navbar-default {
     border-color: rgba(34,34,34,.05);
-    font-family: 'Sonsie One',Georgia,serif;
+    font-family: 'Sonsie One',Garamond,serif;
     background-color: #fff;
     -webkit-transition: all .35s;
     -moz-transition: all .35s;
@@ -104,8 +106,8 @@ aside {
 
 .navbar-default .navbar-header .navbar-brand {
     text-transform: normal;
-    font-family: 'Sonsie One',Georgia,serif;
-    font-weight: 700;
+    font-family: 'Sonsie One',Garamond,serif;
+    font-weight: 500;
     color: #004d00;
     font-size:14px;
 }
@@ -172,7 +174,7 @@ aside {
     }
 
     .navbar-default.affix .navbar-header .navbar-brand {
-        font-size: 12px;
+        /*font-size: 12px;*/
         color: #004d00;
     }
 
@@ -226,19 +228,19 @@ header .header-content .header-content-inner hr {
 header
  .header-content .header-content-inner p {
     margin-bottom: 50px;
-    font-size: 16px;
+    /*font-size: 16px;*/
     font-weight: 300;
     color: rgba(255,255,255,.7);
 }
 
 section#contact {
     padding: 25px 0;
-    font-family: 'Merriweather', serif, Georgia, serif;
+    font-family: 'Merriweather', Garamond, serif;
     background-color: #000;
 }
 section#contact h2{
 
-    font-family: 'Vast Shadow', Georgia, serif;
+    font-family: 'Vast Shadow', Garamond, serif;
     background-color: #000;
 }
 @media(min-width:768px) {
@@ -266,7 +268,7 @@ section#contact h2{
         margin-right: auto;
         margin-left: auto;
         max-width: 80%;
-        font-size: 18px;
+        /*font-size: 18px;*/
     }
 }
 
@@ -324,17 +326,17 @@ section#contact h2{
 .portfolio-box .portfolio-box-caption .portfolio-box-caption-content .project-category,
 .portfolio-box .portfolio-box-caption .portfolio-box-caption-content .project-name {
     padding: 0 15px;
-    font-family: 'Merriweather', serif,Georgia,serif;
+    font-family: 'Merriweather',Garamond,serif;
 }
 
 .portfolio-box .portfolio-box-caption .portfolio-box-caption-content .project-category {
     text-transform: normal;
-    font-size: 14px;
+    /*font-size: 14px;*/
     font-weight: 600;
 }
 
 .portfolio-box .portfolio-box-caption .portfolio-box-caption-content .project-name {
-    font-size: 18px;
+    /*font-size: 18px;*/
 }
 
 .portfolio-box:hover .portfolio-box-caption {
@@ -343,17 +345,17 @@ section#contact h2{
 
 @media(min-width:768px) {
     .portfolio-box .portfolio-box-caption .portfolio-box-caption-content .project-category {
-        font-size: 16px;
+        /*font-size: 16px;*/
     }
 
     .portfolio-box .portfolio-box-caption .portfolio-box-caption-content .project-name {
-        font-size: 22px;
+        /*font-size: 22px;*/
     }
 }
 
 .call-to-action h2 {
     margin: 0 auto 20px;
-    font-family: 'Merriweather', serif, Georgia,serif;
+    font-family: 'Merriweather', Garamond,serif;
     text-transform: Normal;
 }
 
@@ -480,7 +482,7 @@ fieldset[disabled] .btn-primary.active {
     border: 0;
     /*border-radius: 300px;*/
     text-transform: uppercase;
-    font-family: 'Merriweather', serif,Georgia,serif;
+    font-family: 'Merriweather',Garamond,serif;
     font-weight: 700;
 }
 
